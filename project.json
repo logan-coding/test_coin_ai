@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.3",
+  "name": "test_coin_ai",
+  "id": "00b3d517-7eda-482f-84c1-ec2bf13d58be",
+  "isNew": false
+}
