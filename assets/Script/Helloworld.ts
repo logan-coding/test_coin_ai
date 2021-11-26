@@ -30,7 +30,7 @@ export default class Helloworld extends cc.Component {
     tokenEditBox: cc.EditBox = null;
 
     private urlHead: string = 'https://test-api-6699.mathufo.com';
-    private token: string = 'danliu';
+    private token: string = 'demo';
     private gameTime: number = 0;
     private gameScore: number = 0;
     private maxScore: number = 0;
